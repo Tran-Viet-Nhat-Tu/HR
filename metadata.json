@@ -1,0 +1,6 @@
+{
+  "name": "HR Recruitment Control - Quản lý Tuyển dụng Suất ăn Công nghiệp",
+  "description": "Hệ thống quản lý yêu cầu tuyển dụng tập trung theo cơ sở, bếp ăn, khách hàng, định biên nhân sự, tiến độ HR và trung tâm cảnh báo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
